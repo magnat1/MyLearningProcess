@@ -1,4 +1,4 @@
-import random
+import random #it helps to choose elements randomly
 import operator
 
 def random_problem():
